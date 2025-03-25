@@ -59,8 +59,8 @@ auth-system/
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/auth-system.git
-cd auth-system
+git clone https://github.com/rijulsoni/amtech.git
+cd amtech
 ```
 
 ### 2️⃣ Install Dependencies  
