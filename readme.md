@@ -110,6 +110,5 @@ The server will run on `http://localhost:3000` (or the port specified in `.env`)
 - `ejs` – Templating engine  
 - `express-rate-limit` – Rate limiting  
 - `dotenv` – Environment variable management  
-- `node-fetch` – For reCAPTCHA verification  
 
 ---
