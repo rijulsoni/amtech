@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Profile</title>
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+    <h1>Welcome, <%= user.username %></h1>
+    <p>ID: <%= user.id %></p>
+    <p>Email: <%= user.email %></p>
+    <p>Username: <%= user.username %></p>
+    <p>Joined: <%= user.created_at %></p>
+    <a class="logout-link" href="/api/auth/logout">Logout</a>
+</body>
+</html>
